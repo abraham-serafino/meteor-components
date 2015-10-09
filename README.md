@@ -20,12 +20,6 @@ Setup
 
 You will need to:
 
-<pre>meteor add reactive</pre>
+<pre>meteor add reactive-var erasaur:meteor-lodash</pre>
 
 in order to get the example to work.
-
-You might also want to:
-
-<pre>meteor add nemo64:bootsrap less</pre>
-
-if you'd like the demo to be a bit more visually appealing.
